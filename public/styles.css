@@ -1,0 +1,12 @@
+h1.heading {
+  color: red;
+}
+
+p {
+  color: blue;
+}
+
+.business-img {
+  height: 300px;
+  width: 300px;
+}
